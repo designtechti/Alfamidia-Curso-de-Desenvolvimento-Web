@@ -4,11 +4,11 @@
 
 ## Grade curricular
 
-### [x] AWS - Amazon Web Services
+### AWS - Amazon Web Services
 
 - [x] Implantação de Ambiente PHP na AWS
 
-### [x] Banco de Dados & SQL
+### Banco de Dados & SQL
 
 - [x] Banco de Dados: MySQL e Workbench;
 - [x] Banco de Dados: Introdução ao SQL;
@@ -16,7 +16,7 @@
 - [x] Apostila de PostgreSQL;
 - [x] Apostila de Modelagem de Dados e SQL;
 
-### [x] Bootstrap
+### Bootstrap
 
 - [x] HTML na prática: Site c/ Bootstrap;
 - [x] Bootstrap: Introdução;
